@@ -1,1 +1,0 @@
-*Fler än en hypotes*

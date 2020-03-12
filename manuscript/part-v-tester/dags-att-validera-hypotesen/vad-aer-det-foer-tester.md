@@ -1,0 +1,30 @@
+# Vad är det för tester?
+
+**Vad är det för tester vi ska göra?**
+
+Nu har vi kommit till det spännande steget i processen där vi får feedback på vad vi hittills har tänkt och gjort. Och inte från vem som helst, utan från våra kunder och användare!
+
+Under resans gång har vi fått mycket olika sorters input i form av beteendedata från besökare och användare, tankar och idéer från kollegor och inspiration från världen runt omkring oss. Men det är först när vi testar vår prototyp på riktiga kunder som vi får den återkoppling vi behöver för att kunna gå vidare i utvecklingen av kundupplevelsen. Fungerar prototypen som vi tänkte eller behöver vi göra justeringar för att kunderna ska kunna och vilja använda den? Kommer det vi gjort lösa användarnas problem, ge dem mer inspiration och bidra till en \(totalt sett\) bättre kundupplevelse?
+
+Själva testet är sanningen ögonblick och det är också det som gör att det här arbetssättet gör din organisation med konkurrenskraftig. För så länge ni _inte_ tar in kunden i produktutvecklingen så kommer ni hela tiden att ligga efter de konkurrenter som gör det.
+
+Som du minns började vi med att definiera ett problem\[länk\] och sen formulerade vi en eller flera hypoteser\[länk\]. Och testets huvudsakliga uppgift är att validera eller förkasta våra hypoteser. Stämmer de eller stämmer de inte? När vi kommit så här långt i processen är det väldigt lätt att vara “gift” med sin lösning, eftersom du lagt ned så pass mycket arbete. Och det är just därför vi jobbar med hypoteser, prototyper och tester istället för att arbeta med idéer som vi själva tycker är bra eller dåliga. Du vill så långt som möjligt behålla ett öppet sinne, för vad vi än får reda på i testet så är det _oerhört värdefull kunskap_.
+
+Den är så värdefull att företag tidigare betalade mångmiljonbelopp för att få tag på den och då stämde den inte ens!
+
+Faktum är att det är ganska intressant historia i sig själv hur vi under så många år --- från 1950-talet och framåt --- investerat så mycket i det vi skulle kunna kalla generella undersökningar. Företag har betalat stora pengar för marknadsundersökningar, Business Intelligence och fokusgrupper. Företag som Gallup och Nielsen var pionjärer och både de och deras svenska motsvarigheter försåg oss med rapporter och undersökningar som var mycket kostsamma. Bland annat med motivationen att de var _stora_. För att få ekonomi i produktionen gjorde man enkäter med många frågor som många människor som fick svara på. Där “många människor” var lika med det antal man behövde för att få statistisk relevans för befolkningen. Då kunde man nämligen sälja resultaten till många olika företag, som var intresserade av några av frågorna men inte alla. Gallup-undersökningar, helt enkelt.
+
+Det är en metod som fungerar väldigt bra om man vill få reda på vad en nation tänker och tycker i en generell fråga. Men det funkar sämre så fort du blir lite mer specifik i vem du vill prata med och vad själva frågan är. Om du i vårt land behöver ha ungefär 2.000 som svarar på en generell fråga för att du ska ha ett hum om vad nationen tycker, så kan du bara tänka dig om du vill veta vad kvinnor mellan 25 och 35 vill veta om högtalare. I de stora enkäterna fanns många frågor med, men varje delmålgrupp var så klart för liten. Det är bara ibland som vi behöver veta vad en hel nation tycker. Och om man vänder på det så har du och din organisation fler kunder eller intressenter än 2.000.
+
+Så samtidigt som denna metod var väldigt kostsam --- du måste hantera enkäten till många människor --- så var den samtidigt alldeles för trubbig för våra ändamål. Särskilt om vi jämför med att vi nu kan veta exakt vilka artiklar som kvinnor mellan 25-35 har läst och inte läst på vår sajt, till och med hur mycket av artiklarna. Och det kostar i princip ingenting att få reda på det: Besökarnas beteende spelas alltid in och det är bara att gå in i Google Analytics och titta på vad du vill veta.
+
+En nackdel med det och en nackdel med alla statistik och “business intelligence” är att den lätt ger oss a\) en övertro på siffror och b\) betyder mycket mindre om vi inte gjort ett _experiment_. Översatt till artiklarna ovan så får du reda på mer om du med flit gjort några olika sorters artiklar och så jämför du hur målgruppen läst dem. Vilka tyckte de bäst om? Och --- framför allt --- vad trodde ni innan ni publicerade och mätte?
+
+Just detta att ha en hypotes och sen få se vad som händer när den utsätts för verkligheten adderar en extra kunskapsdimension. Det är som att generell statistik bara kommer till oss och det är inte så lätt att ta den till sig; det är inte så lätt att förstå vad den betyder. Men om du och dina kollegor har haft en hypotes om som bygger på att en viss målgrupp borde gilla ett särskilt innehåll bättre och sen får ni reda på om det stämmer eller inte, då har ni lärt er mycket mer. Framför allt har era egna fördomar och föreställningar fått korrigeras och det är ett av de mest genomgripande och värdefulla sätten att få kunskap på. Den sortens kunskaper är värda mer för vi internaliserar dem på ett helt annat sätt. De blir en del av oss. Vilket inte är konstigt, för även om det kanske också gestaltar sig som siffror \(“67% av målgruppen föredrog den nya sortens artiklar...”\) så innehåller det framför allt ett narrativ. Kunskapen både bygger på och är i sig själv storytelling. Den går att återberätta på ett sådant sätt att andra i organisationen också lär sig på ett helt annat sätt eftersom du kan förmedla kunskapen via en spännande berättelse där de får vara med om den aha-upplevelse du hade.
+
+“Eftersom XXXX trodde vi att YYYY, men vet ni --- alla ville mycket hellre ha ZZZZ!”
+
+Big Data och Business Intelligence är varken stort eller intelligent om det inte sätts i ett sammanhang och det sammanhanget behöver ha ett narrativ. Det är precis därför vi formulerar hypoteser.
+
+Och som du minns från det kapitlet så gör vi det för att så snabbt som möjligt kunna ha fel. Testerna som vi gör är vad som visar hur mycket och på vilket sätt vi har fel.
+

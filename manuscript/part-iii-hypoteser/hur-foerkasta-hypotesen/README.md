@@ -1,0 +1,2 @@
+# Hur förkasta hypotesen?
+

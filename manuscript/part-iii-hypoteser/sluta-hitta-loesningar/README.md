@@ -1,0 +1,2 @@
+# Sluta hitta lösningar
+
